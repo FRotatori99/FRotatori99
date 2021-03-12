@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @FRotatori99
+- 👀 I’m interested in developing
+- 🌱 I’m currently learning Python
+- 📫 How to reach me rotatori.federico99@gmail.com
